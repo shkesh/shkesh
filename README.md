@@ -4,6 +4,6 @@
 </head>
 
 <body>
-   <img src="http://github.artbruk.ru/hi.svg" layout="fill">
+   <img src="http://github.artbruk.ru/hi.svg">
 </body>
 </html>
